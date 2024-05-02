@@ -1,5 +1,6 @@
 # GameJamSubmissions
-All the game jams I have participated in so far
+All the game jams I have participated in so far (2022-ongoing)
+
 
 ## [Time&Space Agent - HUJAM'23](https://boraswim.itch.io/timespace-agent)
 <img src="https://img.itch.zone/aW1hZ2UvMjQxNjQ4NC8xNDMwMjQxMy5qcGc=/347x500/OWgDv6.jpg" alt="timespaceagent" width="100%"/>
